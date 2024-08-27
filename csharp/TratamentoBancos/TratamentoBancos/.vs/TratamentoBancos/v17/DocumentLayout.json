@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samuel\\Desktop\\csharp\\TratamentoBancos\\TratamentoBancos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658559CB-35C3-4445-AB66-86825E4AF5B7}|TratamentoBancos.csproj|C:\\Users\\samuel\\Desktop\\csharp\\TratamentoBancos\\TratamentoBancos\\titulo\\corrigir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658559CB-35C3-4445-AB66-86825E4AF5B7}|TratamentoBancos.csproj|solutionrelative:titulo\\corrigir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658559CB-35C3-4445-AB66-86825E4AF5B7}|TratamentoBancos.csproj|c:\\users\\samuel\\desktop\\csharp\\tratamentobancos\\tratamentobancos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658559CB-35C3-4445-AB66-86825E4AF5B7}|TratamentoBancos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658559CB-35C3-4445-AB66-86825E4AF5B7}|TratamentoBancos.csproj|c:\\users\\samuel\\desktop\\csharp\\tratamentobancos\\tratamentobancos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658559CB-35C3-4445-AB66-86825E4AF5B7}|TratamentoBancos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Corrigir.cs",
+              "DocumentMoniker": "C:\\Users\\samuel\\Desktop\\csharp\\TratamentoBancos\\TratamentoBancos\\Titulo\\Corrigir.cs",
+              "RelativeDocumentMoniker": "Titulo\\Corrigir.cs",
+              "ToolTip": "C:\\Users\\samuel\\Desktop\\csharp\\TratamentoBancos\\TratamentoBancos\\Titulo\\Corrigir.cs",
+              "RelativeToolTip": "Titulo\\Corrigir.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwEoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:42:24.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\samuel\\Desktop\\csharp\\TratamentoBancos\\TratamentoBancos\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\samuel\\Desktop\\csharp\\TratamentoBancos\\TratamentoBancos\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwEgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:37:32.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\samuel\\Desktop\\csharp\\TratamentoBancos\\TratamentoBancos\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\samuel\\Desktop\\csharp\\TratamentoBancos\\TratamentoBancos\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:39:41.213Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
