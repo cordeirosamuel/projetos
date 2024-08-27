@@ -1,1 +1,1 @@
-primeiros commits e aprendendo como usar git no visual studio
+2024-08-27 - primeiros commits e aprendendo como usar git no visual studio
