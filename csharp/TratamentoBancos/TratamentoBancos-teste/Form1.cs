@@ -64,16 +64,6 @@ namespace TratamentoBancos
                 MessageBox.Show("O arquivo não existe!", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
-            /*
-            if (Corrigir.Inmetro != null)
-            {
-                textBox1.Text = ("Consta título do Inmetro");
-            }*/
-
-
-            // Exibe os títulos especiais (Direito de regresso e original), se existir.
-            //textBox1.Text += String.Join("\r\n", Corrigir.tituloEspecial);
-
             StringBuilder sb = new StringBuilder(textBox1.Text);
             if (Corrigir.Inmetro != null)
             {
