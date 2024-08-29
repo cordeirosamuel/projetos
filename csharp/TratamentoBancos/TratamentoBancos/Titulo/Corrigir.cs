@@ -138,12 +138,12 @@ namespace Titulo
 
                         if (codComprovacao == "0R0")
                         {
-                            tituloEspecial.Add("Direito de regresso " + nroProtocolo);
+                            tituloEspecial.Add("Direito de regresso " + nroProtocolo + "\n");
                         }
 
                         if (codComprovacao == "0A0")
                         {
-                            tituloEspecial.Add("Verificar original " + nroProtocolo);
+                            tituloEspecial.Add("Verificar original " + nroProtocolo + "\n");
                         }
 
                         if (codComprovacao == "000")
